@@ -1,0 +1,9 @@
+.navbar-nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+.navbar-nav a:hover {
+  text-decoration: none;
+  color: #e67e22;
+}
